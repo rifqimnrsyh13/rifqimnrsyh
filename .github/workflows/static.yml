@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rifqi Muhammad Nuriansyah - Videographer</title>
+    <link rel="stylesheet" href="1.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <nav>
+                <h1 class="logo">Rifqi</h1>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#projects">Projects</a></li>
+                    <li><a href="#skills">Skills</a></li>
+                    <li><a href="https://wa.me/6281287989534">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="hero">
+        <div class="container">
+            <div class="hero-content">
+                <h2>Hello! I'm Rifqi Muhammad Nuriansyah</h2>
+                <p>I'm a professional videographer with a passion for capturing beautiful moments and telling stories through my lens. Let's create something amazing together!</p>
+                <button onclick="location.href='https://wa.me/6281287989534'">Let's Talk</button>
+                <button onclick="location.href='https://www.instagram.com/rifqimnrsyh/'" target="_blank">View Projects</button>
+            </div>
+            <div class="hero-image">
+                <img src="asset/rifqi.jpg" alt="Rifqi Muhammad Nuriansyah">
+            </div>
+        </div>
+    </section>
+
+   <section id="clients">
+    <div class="container">
+        <h2>Meet My Recent Clients</h2>
+        <div class="clients-logos">
+            <div class="client">
+                <a href="https://www.instagram.com/rayashoes_scnd/" target="_blank">
+                    <img src="Asset/rayashoe.jpg" alt="Client Logo">
+                    <p>Raya Shoes</p>
+                </a>
+            </div>
+            <div class="client">
+                <a href="https://www.instagram.com/nirwanavm/" target="_blank">
+                    <img src="Asset/Nirwana.jpg" alt="Client Logo">
+                    <p>Nirwana Variasi Mobil</p>
+                </a>
+            </div>
+            <div class="client">
+                <a href="https://www.instagram.com/cqueen.id/" target="_blank">
+                    <img src="Asset/cqueen.jpg" alt="Client Logo">
+                    <p>CQueen</p>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+    <section id="services">
+        <div class="container">
+            <h2>What Can I Do For You</h2>
+            <div class="service-cards">
+                <div class="service-card">
+                    <h3>Advertising Videography</h3>
+                    <p>Create Ads for your business needs.</p>
+                </div>
+                <div class="service-card">
+                    <h3>Corporate Videos</h3>
+                    <p>Create professional videos for your business needs.</p>
+                </div>
+                <div class="service-card">
+                    <h3>Event Coverage</h3>
+                    <p>Document your events with high-quality video coverage.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="skills">
+        <div class="container">
+            <h2>Check My Skills And Work Experiences</h2>
+            <div class="skills-experiences">
+                <div class="work-experience">
+                    <h3>Work Experiences</h3>
+                    <ul>
+                        <li>2020-2021: Director and Videographer Short Movie</li>
+                        <li>2021-2023: Talent Management</li>
+                        <li>2023-Present: Freelance Videographer</li>
+                    </ul>
+                </div>
+                <div class="education">
+                    <h3>Education</h3>
+                    <ul>
+                        <li>2018-2021: SMAN 1 Karawang</li>
+                        <li>2022-Present: University Of Education Indonesia</li>
+                    </ul>
+                </div>
+                <div class="skills">
+                    <h3>My Skills & Advantage</h3>
+                    <ul>
+                        <li>Adobe Premiere Pro <span>90%</span></li>
+                        <li>CapCut Pro <span>91%</span></li>
+                        <li>After Effects <span>95%</span></li>
+                        <li>DaVinci Resolve <span>92%</span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Rifqi Muhammad Nuriansyah. All Rights Reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
